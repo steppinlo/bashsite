@@ -76,11 +76,6 @@ body,
 }
 
 @font-face {
-    font-family: "Elido-Black";
-    src: url(../fonts/Elido-Black.otf) format("opentype");
-}
-
-@font-face {
     font-family: "Quicksand-Regular";
     src: url(../fonts/Quicksand-Regular.otf) format("opentype");
 }
@@ -93,16 +88,6 @@ body,
 @font-face {
     font-family: "Quicksand-Bold";
     src: url(../fonts/Quicksand-Bold.otf) format("opentype");
-}
-
-@font-face {
-    font-family: "Elido-Bold";
-    src: url(../fonts/Elido-Bold.otf) format("opentype");
-}
-
-@font-face {
-    font-family: "Elido-Book";
-    src: url(../fonts/Elido-Book.otf) format("opentype");
 }
 
 a.buy_ticket_btn:link {
@@ -151,6 +136,7 @@ a.buy_ticket_btn:link {
     font-size: 30pt;
     text-transform: uppercase;
     color: rgb(215, 168, 42);
+    line-height: 1.1em;
 }
 
 .main_subheader {

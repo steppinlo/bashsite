@@ -56,7 +56,7 @@ body,
 .container {
     padding-top: 25px;
     color: white;
-    padding-bottom: 25px;
+    padding-bottom: 16px;
 }
 
 .sponsors {
@@ -186,7 +186,7 @@ a.buy_ticket_btn:link {
 }
 
 .footer_subsection {
-    margin-bottom: 50px;
+    margin-bottom: 10px;
     text-align: center;
     font-family: "Quicksand-Light";
     font-size: 12pt;

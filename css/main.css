@@ -115,12 +115,20 @@ a.buy_ticket_btn:link {
     font-family: "Quicksand-Light";
     font-size: 12pt;
     text-transform: uppercase;
-    line-height: 0.7;
+    line-height: 1em;
     letter-spacing: 2px;
+}
+
+p.side_category {
+    line-height: 0.7em;
 }
 
 .side_bar a:hover, a:visited {
     color: white;
+}
+
+.sidebar_bold {
+    font-family: "Quicksand-Bold";
 }
 
 .sidebar_header {
@@ -155,10 +163,6 @@ a.buy_ticket_btn:link {
 .main_text > p{
     margin-bottom: 20px;
 }
-
-/*.main {
-    margin-bottom: 50px;
-}*/
 
 .footer {
     color: white;
